@@ -64,4 +64,13 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    //Xử lý ảnh trong kotlin
+    implementation("com.github.bumptech.glide:glide:5.0.5")
+    //UI
+    implementation("androidx.recyclerview:recyclerview:1.3.2")
+    //Network
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("io.coil-kt:coil-compose:2.7.0")
 }
