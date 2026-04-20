@@ -30,7 +30,7 @@ Thư mục `midterm_project`, mở bằng Android Studio
 ## 🧰 Công nghệ sử dụng
 
 * Android (Java/Kotlin)
-* PHP (Native PHP)
+* PHP
 * MySQL
 
 ---
